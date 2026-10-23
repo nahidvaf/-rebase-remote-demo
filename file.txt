@@ -1,2 +1,3 @@
 git status
 a new line from feature
+another line from feature branch on local repository
